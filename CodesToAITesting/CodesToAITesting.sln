@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodesToAITesting", "CodesToAITesting\CodesToAITesting.csproj", "{03CD4282-3A93-48B6-8636-F043F9953067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03CD4282-3A93-48B6-8636-F043F9953067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03CD4282-3A93-48B6-8636-F043F9953067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03CD4282-3A93-48B6-8636-F043F9953067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03CD4282-3A93-48B6-8636-F043F9953067}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3DC233C-FA95-427C-B19C-1536D35E5D43}
+	EndGlobalSection
+EndGlobal

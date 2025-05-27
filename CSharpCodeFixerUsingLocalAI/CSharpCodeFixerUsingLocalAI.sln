@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpCodeFixerUsingLocalAI", "CSharpCodeFixerUsingLocalAI\CSharpCodeFixerUsingLocalAI.csproj", "{47DD6EB0-E9DF-499D-9895-D2569A552E8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpCodeFixer", "CSharpCodeFixer\CSharpCodeFixer.csproj", "{01F26823-0D95-4484-86D5-1DBD03E3EBBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47DD6EB0-E9DF-499D-9895-D2569A552E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47DD6EB0-E9DF-499D-9895-D2569A552E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47DD6EB0-E9DF-499D-9895-D2569A552E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47DD6EB0-E9DF-499D-9895-D2569A552E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01F26823-0D95-4484-86D5-1DBD03E3EBBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F26823-0D95-4484-86D5-1DBD03E3EBBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F26823-0D95-4484-86D5-1DBD03E3EBBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F26823-0D95-4484-86D5-1DBD03E3EBBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA645AF4-CEED-4EB7-B6FC-0838FDF0AB4B}
+	EndGlobalSection
+EndGlobal
