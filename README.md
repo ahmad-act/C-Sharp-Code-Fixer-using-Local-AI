@@ -126,7 +126,7 @@ Ollama supports **Windows**, **macOS**, and **Linux**. Follow the instructions f
    - [Ollama GitHub Releases](https://github.com/ollama/ollama/releases) File: `ollama-windows-amd64.exe`.
    
 2. Run the installer and follow the prompts.
-   - Add an image
+   ![Ollama](readme-img/ollama-setup-steps-1.png)
 3. Ollama will be set up as a service running at: [`http://localhost:11434`](http://localhost:11434)
   - Output on Browser: 
   ```browser
