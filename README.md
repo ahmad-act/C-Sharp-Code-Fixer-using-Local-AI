@@ -229,6 +229,3 @@ Expected response:
 }
 ```
 
-## Additional Resources
-- [Ollama Documentation](https://ollama.ai/docs)
-- [CodeLlama Documentation](https://huggingface.co/codellama)
